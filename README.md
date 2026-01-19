@@ -2,7 +2,7 @@
 <h3 align="center">CSE Student | Aspiring Data Scientist | Python Learner 📊</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=samarthkul6579&label=Profile%20views&color=0e75b6&style=flat" alt="samarthkul6579" />
+  <img src="![Profile Views](https://komarev.com/ghpvc/?username=samarthkul6579&label=Profile%20Views&color=0e75b6&style=flat)" />
 </p>
 
 <p align="center">
